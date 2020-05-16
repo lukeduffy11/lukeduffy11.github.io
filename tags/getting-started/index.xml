@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting started on luke duffy</title>
+    <link>https://lukeduffy11.github.io/tags/getting-started/</link>
+    <description>Recent content in Getting started on luke duffy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 09 Apr 2020 16:26:10 +0100</lastBuildDate>
+    
+	<atom:link href="https://lukeduffy11.github.io/tags/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://lukeduffy11.github.io/posts/2020/04/first-post/</link>
+      <pubDate>Thu, 09 Apr 2020 16:26:10 +0100</pubDate>
+      
+      <guid>https://lukeduffy11.github.io/posts/2020/04/first-post/</guid>
+      <description>Hello world!
+This site was build with Hugo, using steps found here -&amp;gt; https://inside.getambassador.com/creating-and-deploying-your-first-hugo-site-to-github-pages-1e1f496cf88d</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://lukeduffy11.github.io/posts/2020/04/second-post/</link>
+      <pubDate>Thu, 09 Apr 2020 16:26:10 +0100</pubDate>
+      
+      <guid>https://lukeduffy11.github.io/posts/2020/04/second-post/</guid>
+      <description>Hello world!
+The theme is here -&amp;gt; https://themes.gohugo.io/hugo-theme-hello-friend-ng/</description>
+    </item>
+    
+  </channel>
+</rss>
